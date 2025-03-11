@@ -1,5 +1,5 @@
 - I’m interested in Machine Learning
-- I’m currently learning Systems Programming and Algorithms and Complexity,
+- I’m currently learning Systems Programming and Algorithms & Complexity,
 - Actively collaborating on Open source projects
 
 <!---
