@@ -6,27 +6,6 @@
 
 ---
 
-## 🚀 About Me
-
-I build and evaluate AI systems for real-world image understanding.
-
-My work focuses on:
-- 🛣 Infrastructure & roadway image analysis  
-- 🤖 Vision + LLM evaluation pipelines  
-- 📊 Golden dataset construction & benchmarking  
-- 🔬 Vision Transformer experimentation  
-
----
-
-## 🧠 Vision + LLM Research
-
-- Prompt performance evaluation (structured vs conservative strategies)  
-- Multimodal labeling accuracy benchmarking  
-- Model comparison across GPT vision variants  
-- Cost–performance tradeoff analysis  
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
