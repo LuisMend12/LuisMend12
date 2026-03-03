@@ -1,4 +1,11 @@
 # Luis Mendez 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisMend12&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMend12&theme=tokyonight" />
+</p>
 
 🎓 Computer Science & Engineering + Mathematics @ UConn  
 🧠 Focus: Computer Vision, Machine Learning, Dataset Engineering  
