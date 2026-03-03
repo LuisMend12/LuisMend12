@@ -1,82 +1,63 @@
 # Luis Mendez 👋
 
 🎓 Computer Science & Engineering + Mathematics @ UConn  
-🧠 Focus: Computer Vision, Machine Learning, Dataset Engineering  
+🧠 Applied Machine Learning | Computer Vision | Dataset Engineering  
 📍 Connecticut, USA  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisMend12&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMend12&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 What I Do
+## 🚀 About Me
 
 I build and evaluate AI systems for real-world image understanding.
 
-Currently working on:
-- 🛣 Roadway feature detection (rumble strips, speed signs, lighting)
-- 🤖 GPT-based multimodal labeling evaluation
-- 📊 Golden dataset construction & benchmarking
-- 🔬 Vision Transformer experimentation
+My work focuses on:
+- 🛣 Infrastructure & roadway image analysis  
+- 🤖 Vision + LLM evaluation pipelines  
+- 📊 Golden dataset construction & benchmarking  
+- 🔬 Vision Transformer experimentation  
 
 ---
 
-## 🧪 Featured Projects
+## 🧠 Vision + LLM Research
 
-### 🛣 Roadway AI Labeling System
-Human + GPT collaborative labeling framework  
-- CJL image decoding pipelines  
-- Golden dataset validation  
-- Prompt strategy benchmarking  
-- Model accuracy + cost analysis  
-
-**Tech:** Python, OpenCV, NumPy, Vision Models  
-
----
-
-### 📦 Dataset Engineering Pipelines
-- Large-scale RAR extraction automation  
-- Frame sampling systems  
-- Image preprocessing pipelines  
-- Data augmentation benchmarking  
-
----
-
-### 🧠 Vision + LLM Research
-- Prompt performance evaluation  
-- Structured vs Conservative prompting  
-- Accuracy comparison across GPT models  
+- Prompt performance evaluation (structured vs conservative strategies)  
+- Multimodal labeling accuracy benchmarking  
+- Model comparison across GPT vision variants  
+- Cost–performance tradeoff analysis  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
+### Languages
 `Python` `C++` `TypeScript`
 
-**ML / CV:**  
+### ML / Computer Vision
 `PyTorch` `OpenCV` `NumPy` `Scikit-Learn` `Vision Transformers`
 
-**Tools:**  
-`Linux` `VS Code` `Git` `Docker` `Streamlit`
+### Tools & Systems
+`Linux` `Git` `Docker` `VS Code` `Streamlit`
 
 ---
 
 ## 📊 Current Focus
 
-Building scalable AI systems for infrastructure image understanding and evaluation.
+Designing scalable, human-in-the-loop AI systems for infrastructure image understanding and evaluation.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/luis-mendez-reyes
-- Kaggle: https://kaggle.com/luismndezreyes
-- HackerRank: https://hackerrank.com/profile/luismendezr12
+- 🔗 LinkedIn: https://linkedin.com/in/luis-mendez-reyes  
+- 🏆 Kaggle: https://kaggle.com/luismndezreyes  
+- 💻 HackerRank: https://hackerrank.com/profile/luismendezr12
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisMend12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMend12&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
