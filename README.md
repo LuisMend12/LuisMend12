@@ -1,14 +1,14 @@
-<h1 align="center">Luis Mendez 👋</h1>
+<h1 align="center">Luis Mendez </h1>
 
 <p align="center">
-🎓 Computer Science & Engineering + Mathematics @ University of Connecticut <br>
-🧠 AI Concentration | Machine Learning | Computer Vision | Applied Research <br>
-📍 Connecticut, USA
+Computer Science & Engineering + Mathematics @ University of Connecticut <br>
+AI Concentration | Machine Learning | Computer Vision | Applied Research <br>
+Connecticut, USA
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **Computer Science and Mathematics student at the University of Connecticut** focusing on **Artificial Intelligence, Computer Vision, and Machine Learning systems**.
 
@@ -24,7 +24,7 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-## 🧠 Research
+## Research
 
 ### Person Re-Identification (ReID)
 **UConn – Dr. Yuan Hong Research Lab**
@@ -49,7 +49,7 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -99,7 +99,7 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-# 🏆 Selected Projects
+# Selected Projects
 
 ## Quantum Risk Engineering — 🥇 1st Place (iQuHACK 2026)
 
@@ -118,33 +118,7 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-## Phoenix — HackHarvard
-
-AI-powered **document intelligence platform**
-
-- Google Vision API integration
-- Vision Transformer similarity detection
-- Real-time feature extraction dashboard
-
----
-
-## Neural Data Visualization Tool — HackDartmouth
-
-- Built **real-time C++ neural signal visualizer**
-- Implemented **multithreaded rendering**
-- Signal filtering and spike visualization
-
----
-
-## Smart Waste Classification System — HackUMass
-
-- Custom **image classification model**
-- Deployed on **Raspberry Pi**
-- Automated waste sorting using **Arduino servo control**
-
----
-
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LuisMend12&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -156,7 +130,7 @@ AI-powered **document intelligence platform**
 
 ---
 
-## 📫 Connect
+##  Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/luis-mendez-reyes">
