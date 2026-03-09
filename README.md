@@ -26,7 +26,6 @@ My work spans **research, infrastructure AI, and applied ML systems**, with expe
 
 I enjoy building **real-world AI systems that combine research and deployment**.
 
----
 
 ## Research
 
