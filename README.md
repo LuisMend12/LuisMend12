@@ -119,18 +119,6 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LuisMend12&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=LuisMend12&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ##  Connect
 
 <p align="center">
