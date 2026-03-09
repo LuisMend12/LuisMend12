@@ -102,8 +102,6 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-# Selected Projects
-
 ## Quantum Risk Engineering — 🥇 1st Place (iQuHACK 2026)
 
 - Benchmarked **Monte Carlo vs Quantum Amplitude Estimation**
