@@ -68,50 +68,58 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 ## Tech Stack
 
 ### Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C++-242938?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C-242938?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/CSharp-242938?style=for-the-badge&logo=csharp&logoColor=9B59D0"/>
+<img src="https://img.shields.io/badge/Java-242938?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/TypeScript-242938?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-242938?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-### Machine Learning / AI
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/VisionTransformers-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+### AI / Machine Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-242938?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Vision%20Transformers-242938?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-242938?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/ScikitLearn-242938?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/OpenCV-242938?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 </p>
 
-### Scientific / Data
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
+### Data / Scientific Computing
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SciPy-242938?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qiskit-242938?style=for-the-badge&logo=qiskit&logoColor=6929C4"/>
 </p>
 
 ### Web / Systems
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-242938?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/NodeJS-242938?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Flask-242938?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-242938?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/Vue-242938?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </p>
 
 ### Tools
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains"/>
-<img src="https://img.shields.io/badge/MSYS2-008080?style=for-the-badge"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-242938?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Anaconda-242938?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
+<img src="https://img.shields.io/badge/JetBrains-242938?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSYS2-242938?style=for-the-badge"/>
 </p>
+
+---
 
 ---
 
@@ -130,7 +138,6 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 - Used **quantum walks and parametric circuits**
 - Validated **collision resistance and entropy**
 
----
 
 ---
 
