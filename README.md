@@ -134,14 +134,12 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaocarpim&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaocarpim&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaocarpim&theme=radical) |
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisMend12&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisMend12&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisMend12&theme=radical) |
 |:-:|:-:|:-:|
 
-| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaocarpim&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=joaocarpim&theme=tokyonight&hide_border=false) |
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisMend12&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=LuisMend12&theme=tokyonight&hide_border=false) |
 |:-:|:-:|
 
 </div>
