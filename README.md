@@ -5,6 +5,19 @@ Computer Science & Engineering + Mathematics @ University of Connecticut <br>
 AI Concentration | Machine Learning | Computer Vision | Applied Research <br>
 Connecticut, USA
 </p>
+<p align="center">
+<a href="https://linkedin.com/in/luis-mendez-reyes">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/luismndezreyes">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://hackerrank.com/profile/luismendezr12">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
 
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='100' height='100'>
@@ -119,18 +132,18 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-##  Connect
+---
 
-<p align="center">
-<a href="https://linkedin.com/in/luis-mendez-reyes">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 📊 GitHub Stats
 
-<a href="https://kaggle.com/luismndezreyes">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="https://hackerrank.com/profile/luismendezr12">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-</p>
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaocarpim&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaocarpim&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaocarpim&theme=radical) |
+|:-:|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaocarpim&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=joaocarpim&theme=tokyonight&hide_border=false) |
+|:-:|:-:|
+
+</div>
+
+---
