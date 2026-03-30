@@ -123,7 +123,7 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ---
 
-## Quantum Risk Engineering — 🥇 1st Place (iQuHACK 2026)
+## Quantum Risk Engineering — 🥇 1st Place (iQuHACK 2026 MIT)
 
 - Benchmarked **Monte Carlo vs Quantum Amplitude Estimation**
 - Evaluated **VaR and CVaR risk metrics**
