@@ -67,7 +67,6 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 
 ## Tech Stack
 
-### Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB"/>
@@ -79,7 +78,6 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 <img src="https://img.shields.io/badge/JavaScript-242938?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-### AI / Machine Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-242938?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
@@ -89,8 +87,6 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 <img src="https://img.shields.io/badge/OpenCV-242938?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 </p>
 
-### Data / Scientific Computing
-
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=013243"/>
 <img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=150458"/>
@@ -99,7 +95,6 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 <img src="https://img.shields.io/badge/Qiskit-242938?style=for-the-badge&logo=qiskit&logoColor=6929C4"/>
 </p>
 
-### Web / Systems
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-242938?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -109,7 +104,6 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 <img src="https://img.shields.io/badge/Vue-242938?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </p>
 
-### Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-242938?style=for-the-badge&logo=linux&logoColor=FCC624"/>
