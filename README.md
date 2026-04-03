@@ -27,7 +27,7 @@ Connecticut, USA
 
 ## About Me
 
-I’m a **Computer Science and Mathematics student at the University of Connecticut** focusing on **Artificial Intelligence, Computer Vision, and Machine Learning systems**, and working at Dr. Hong's lab, DataSec, as an RA.
+I’m a **Computer Science and Mathematics student at the University of Connecticut** focusing on **Artificial Intelligence, Computer Vision, and Machine Learning systems**, and working at Dr. Hong's lab, [DataSec]{https://yhongcs.github.io/people.html}, as an RA.
 
 My work spans **research, infrastructure AI, and applied ML systems**, with experience building:
 
