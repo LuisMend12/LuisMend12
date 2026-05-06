@@ -140,7 +140,7 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisMend12&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisMend12&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisMend12&theme=radical) |
 |:-:|:-:|:-:|
 
-| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisMend12&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=LuisMend12&theme=tokyonight&hide_border=false) |
+| ![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisMend12&theme=radical) | ![Streak](https://github-readme-streak-stats-eight.vercel.app?user=LuisMend12&theme=tokyonight&hide_border=false) |
 |:-:|:-:|
 
 </div>
