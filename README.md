@@ -1,13 +1,21 @@
-<h1 align="center">Luis Mendez </h1>
+<h1 align="center">Luis Mendez Reyes</h1>
 
 <p align="center">
-Computer Science & Engineering + Mathematics @ University of Connecticut <br>
-AI Concentration | Machine Learning | Computer Vision | Applied Research <br>
-Connecticut, USA
+B.S. Computer Science & Engineering + B.S. Mathematics @ University of Connecticut <br>
+AI Concentration • Machine Learning • Computer Vision • Applied Research
 </p>
+
+<p align="center">
+Undergraduate Researcher @ DataSec Lab — University of Connecticut
+</p>
+
 <p align="center">
 <a href="https://linkedin.com/in/luis-mendez-reyes">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LuisMend12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://kaggle.com/luismndezreyes">
@@ -19,54 +27,63 @@ Connecticut, USA
 </a>
 </p>
 
-
-<img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='100' height='100'>
-
-
 ---
 
 ## About Me
 
-I’m a **Computer Science and Mathematics student at the University of Connecticut** focusing on **Artificial Intelligence, Computer Vision, and Machine Learning systems**, and working at [Dr. Yuan Hong](https://yhongcs.github.io/)'s lab, [DataSec](https://yhongcs.github.io/people.html) as an Undergraduate Researcher.
+I am a Computer Science and Mathematics student at the University of Connecticut focused on:
 
-My work spans **research, infrastructure AI, and applied ML systems**, with experience building:
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning Systems
+- Research Infrastructure
+- Quantum Computing Applications
 
-- Vision Transformer (ViT) models
-- Pose-based Person Re-Identification systems
-- AI-driven transportation analysis models
-- Quantum computing applications for financial risk
-- Edge AI systems on Raspberry Pi
+I currently work as an Undergraduate Researcher in 
+[Dr. Yuan Hong's DataSec Lab](https://yhongcs.github.io/people.html), where I develop AI systems for:
 
-I enjoy building **real-world AI systems that combine research and deployment**.
+- Person Re-Identification (ReID)
+- Transportation Infrastructure Analysis
+- Large-scale Vision Pipelines
+- Vision Transformer (ViT) architectures
 
-
-## Research
-
-### Person Re-Identification (ReID)
-**UConn – Dr. Yuan Hong Research Lab**
-
-- Developing **pose-based ReID models**
-- Using **Vision Transformers (ViTs)** for embedding learning
-- Implementing **Brownian motion augmentation**
-- Improving robustness under **occlusions and pose mismatch**
-
-### Transportation Systems Research (CTDOT Collaboration)
-
-- Analyzing **transportation system performance**
-- Building **data-driven models and simulations**
-- Evaluating infrastructure usage and traffic patterns
-- Supporting **transportation planning decisions**
-
-### Applied Probability Research
-
-- Simulating **Brownian motion and stochastic systems**
-- Building Python simulations for **stochastic differential equations**
-- Numerical verification of theoretical models
+My interests center around building real-world AI systems that bridge research and deployment.
 
 ---
 
-## Tech Stack
+# Research
 
+## Person Re-Identification (ReID)
+**University of Connecticut — DataSec Lab**
+
+- Developing pose-aware Person ReID architectures
+- Using Vision Transformers (ViTs) for embedding learning
+- Implementing Brownian motion augmentation techniques
+- Improving robustness under occlusion and pose mismatch
+- Exploring embedding consistency and feature alignment
+
+---
+
+## Transportation Systems Research (CTDOT Collaboration)
+
+- Developing Vision Transformer models for roadway infrastructure detection
+- Building scalable computer vision pipelines for transportation datasets
+- Designing annotation and frame extraction workflows
+- Supporting transportation planning through data-driven infrastructure analysis
+
+---
+
+## Applied Probability & Stochastic Systems
+
+- Simulating Brownian motion and stochastic differential equations
+- Building numerical verification tools in Python
+- Modeling diffusion processes and convergence behavior
+
+---
+
+# Technical Skills
+
+## Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB"/>
@@ -78,71 +95,107 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 <img src="https://img.shields.io/badge/JavaScript-242938?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
+---
+
+## Machine Learning & AI
 
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-242938?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Vision%20Transformers-242938?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-242938?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 <img src="https://img.shields.io/badge/HuggingFace-242938?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 <img src="https://img.shields.io/badge/ScikitLearn-242938?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/OpenCV-242938?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Vision%20Transformers-242938?style=for-the-badge"/>
 </p>
+
+---
+
+## Data Science & Scientific Computing
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=013243"/>
 <img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SciPy-242938?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Qiskit-242938?style=for-the-badge&logo=qiskit&logoColor=6929C4"/>
 </p>
 
+---
+
+## Full Stack & Infrastructure
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-242938?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/NodeJS-242938?style=for-the-badge&logo=node.js&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Flask-242938?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-242938?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-<img src="https://img.shields.io/badge/Vue-242938?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-</p>
-
-
-<p align="center">
+<img src="https://img.shields.io/badge/Docker-242938?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Linux-242938?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Anaconda-242938?style=for-the-badge&logo=anaconda&logoColor=44A833"/>
-<img src="https://img.shields.io/badge/JetBrains-242938?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-<img src="https://img.shields.io/badge/MSYS2-242938?style=for-the-badge"/>
 </p>
 
 ---
 
----
+# Selected Projects
 
-## Quantum Risk Engineering — 🥇 1st Place (iQuHACK 2026 MIT)
+## Aegis Wallet — MIT Bitcoin 2026 Top 10
 
-- Benchmarked **Monte Carlo vs Quantum Amplitude Estimation**
-- Evaluated **VaR and CVaR risk metrics**
-- Proposed **Soft-CVaR formulation**
-- Reduced **quantum circuit depth by ~5×**
+**Tech:** Bitcoin • Lightning • MCP • Node.js • Next.js
 
----
-
-## Quantum Hash Function — 🥇 1st Place (SuperQuantum Yale)
-
-- Designed **quantum-secure hash function**
-- Used **quantum walks and parametric circuits**
-- Validated **collision resistance and entropy**
-
+- Built a secure MCP wallet server with 7 agent-accessible tools
+- Designed AI-agent transaction execution with scoped permissions
+- Integrated Lightning Network infrastructure using Dockerized isolation
+- Implemented macaroon-based authentication for secure operations
 
 ---
+
+## Quantum Risk Engineering — 🥇 1st Place @ MIT iQuHACK 2026
+
+**Tech:** Qiskit • NumPy • SciPy • Classiq
+
+- Benchmarked Monte Carlo vs Iterative Quantum Amplitude Estimation
+- Evaluated VaR and CVaR financial risk metrics
+- Proposed Soft-CVaR formulation reducing circuit depth by ~5×
+- Improved feasibility for NISQ-era quantum systems
+
+---
+
+## Full Quantum Hash Function — 🥇 1st Place @ Yale SuperQuantum
+
+**Tech:** Qiskit • NumPy • Matplotlib
+
+- Designed a quantum-secure hash function using quantum walks
+- Encoded classical inputs into entangled quantum states
+- Evaluated entropy, determinism, and collision resistance
+- Validated performance on IBM 20-qubit simulators
+
+---
+
+## Neural Data Visualization Tool — HackDartmouth
+
+**Tech:** C++ • ImGui • Python • SciPy
+
+- Built a real-time neural spike visualization system
+- Applied signal filtering and waveform normalization
+- Implemented multithreaded rendering for low-latency performance
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisMend12&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisMend12&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisMend12&theme=radical) |
+| Stats | Languages | Commits |
 |:-:|:-:|:-:|
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisMend12&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisMend12&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisMend12&theme=radical) |
 
-| ![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisMend12&theme=radical) | ![Streak](https://github-readme-streak-stats-eight.vercel.app?user=LuisMend12&theme=tokyonight&hide_border=false) |
-|:-:|:-:|
+</div>
+
+<div align="center">
+
+![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisMend12&theme=radical)
 
 </div>
 
 ---
+
+<p align="center">
+Building AI systems that combine research, infrastructure, and real-world deployment.
+</p>
