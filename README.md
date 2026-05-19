@@ -76,6 +76,8 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 <img src="https://img.shields.io/badge/Java-242938?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/TypeScript-242938?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/JavaScript-242938?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TensorFlow-242938?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Keras-242938?style=for-the-badge&logo=keras&logoColor=D00000"/>
 </p>
 
 <p align="center">
