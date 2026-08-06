@@ -135,7 +135,8 @@ I enjoy building **real-world AI systems that combine research and deployment**.
 ---
 
 <div align="center">
- [Streak](https://github-readme-streak-stats-eight.vercel.app?user=LuisMend12&theme=tokyonight&hide_border=false) 
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=LuisMend12&theme=tokyonight&hide_border=false" alt="Streak" />
 </div>
+
 
 ---
