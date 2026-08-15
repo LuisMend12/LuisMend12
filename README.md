@@ -32,16 +32,6 @@ Connecticut, USA
 
 I’m a **Computer Science and Mathematics student at the University of Connecticut** focusing on **Artificial Intelligence, Computer Vision, Machine Learning Systems, and LLM Infrastructure**, and working at [Dr. Yuan Hong](https://yhongcs.github.io/)'s lab, [DataSec](https://yhongcs.github.io/people.html) as an Undergraduate Researcher.
 
-My work spans **research, infrastructure AI, applied ML systems, and agentic AI frameworks**, with experience building:
-
-- Vision Transformer (ViT) models
-- Pose-based Person Re-Identification systems
-- AI-driven transportation analysis models
-- Quantum computing applications for financial risk
-- LLM agent systems with LangChain + LangSmith
-- Edge AI systems on Raspberry Pi
-
-I enjoy building **real-world AI systems that combine research and deployment**.
 
 
 ---
